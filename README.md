@@ -58,23 +58,14 @@ Ensure your system meets the following requirements:
 ---
 
 ## 📥 Installation Steps
-
-1. **Clone the Repository**  
-   Clone the project to your local machine:
-
-   ```bash
-   git clone https://github.com/your-username/vision-model-analyzer.git
-   cd vision-model-analyzer
-   ```
-
-2. **Install Dependencies**  
+1. **Install Dependencies**  
    Install the required Python packages:
 
    ```bash
    pip install -r requirements.txt
    ```
 
-3. **Verify Ollama Setup**  
+2. **Verify Ollama Setup**  
    Ensure the Ollama server is running and the `llava` model is available:
 
    ```bash
