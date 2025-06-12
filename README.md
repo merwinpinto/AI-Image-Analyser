@@ -57,7 +57,7 @@ Ensure your system meets the following requirements:
 
 ---
 
-## 📥 Installation Steps
+## Installation Steps
 1. **Install Dependencies**  
    Install the required Python packages:
 
@@ -74,7 +74,7 @@ Ensure your system meets the following requirements:
 
 ---
 
-## 🚀 Running the Application
+## Running the Application
 
 1. **Start the Streamlit App**  
    Run the application:
@@ -90,7 +90,7 @@ Ensure your system meets the following requirements:
 
 ---
 
-## 🖼️ Usage
+## 🖼Usage
 
 1. Upload an image of a park.
 2. Ask: "What activities are people doing in this image?"
@@ -98,7 +98,7 @@ Ensure your system meets the following requirements:
 
 ---
 
-## 📝 Project Structure
+## Project Structure
 
 ```
 vision-model-analyzer/
@@ -109,13 +109,13 @@ vision-model-analyzer/
 ```
 --- 
 
-## 📜 License
+## License
 
 MIT License. See [LICENSE](LICENSE) for details.
 
 ---
 
-## 🙌 Acknowledgments
+## Acknowledgments
 
 - [Ollama](https://ollama.com) for local vision models.
 - [Streamlit](https://streamlit.io) for the web framework.
